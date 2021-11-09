@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: nono;
+    box-sizing: border-box;
+}
+
+img{
+    height: 383px;
+    width: 677px;
+}
+
+.img-start{
+    border: 15px solid orchid;
+}
+
+#img_start {
+    border: 15px solid pink;
+}
